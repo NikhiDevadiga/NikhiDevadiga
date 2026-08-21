@@ -1,4 +1,4 @@
-# Hi, I'm Nikhitha G 👋
+# Hi, I'm Nikhitha Devadiga 
 
 ### MERN Stack Developer | Backend-Focused | Node.js | Express.js | REST APIs | MongoDB
 
