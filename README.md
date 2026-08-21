@@ -1,39 +1,188 @@
-# Nikhitha | Full-Stack MERN Developer
+# Hi, I'm Nikhitha Devadiga 
 
-I am a full-stack developer with three years of experience building practical web applications and backend services. I work primarily with the MERN stack and enjoy turning real workflows into clear, reliable products—from responsive React interfaces to secure REST APIs and MongoDB-backed services.
+### MERN Stack Developer | Backend-Focused | Node.js | Express.js | REST APIs | MongoDB
 
-- Building with **React, Node.js, Express, MongoDB, and JavaScript**
-- Interested in **full-stack, MERN, React, Node.js, and backend** development opportunities
-- Currently expanding my skills in **TypeScript, PostgreSQL, Next.js, AWS, and microservices**
-- Based in **Hyderabad, India**
+I'm a **MERN Stack Developer** with 3 years of experience building full-stack web applications and backend services.
 
-## What I work with
-
-| Frontend | Backend & Data | Tools & Practices |
-| --- | --- | --- |
-| React, JavaScript, HTML, CSS | Node.js, Express, MongoDB, Mongoose | REST APIs, JWT, Git, GitHub, Postman |
-
-## Featured work
-
-| Project | What it demonstrates |
-| --- | --- |
-| [Job Application Agent](https://github.com/NikhiDevadiga/Job-Application-Agent) | A MERN job-search assistant that collects fresh LinkedIn opportunities, matches them to a candidate profile, uses local Ollama analysis, drafts application emails, and tracks application status. |
-| [AI Code Reviewer](https://github.com/NikhiDevadiga/AI-CodeReviewer) | A React application that uses the Google Gemini API to analyse submitted code, identify issues, suggest improvements, and generate improved code. |
-| [Saree E-commerce](https://github.com/NikhiDevadiga/Saree-Ecommerce) | A full-stack commerce platform with authentication, catalogues, cart and wishlist flows, payments, image handling, and admin product/order management. |
-| [Grocery Shopping Application](https://github.com/NikhiDevadiga/Grocery-Shopping-Application) | A MERN commerce application featuring JWT authentication, product management, cart and wishlist flows, payments, orders, and password recovery. |
-
-## Engineering focus
-
-- Designing responsive, approachable user interfaces
-- Building clean REST APIs and secure authentication flows
-- Modelling application data with MongoDB and Mongoose
-- Integrating AI capabilities and third-party services into real products
-- Writing maintainable, version-controlled code with Git and GitHub
-
-## Currently learning
-
-TypeScript · PostgreSQL · Next.js · AWS · Microservices
+I enjoy building **REST APIs, authentication systems, database-driven applications, e-commerce platforms, payment integrations, and AI-powered applications**.
 
 ---
 
-*Explore the pinned repositories above for implementation details and live project work.*
+## 🛠️ Skills & Technologies
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Hooks
+- Context API
+- Responsive Web Design
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- API Integration
+- CRUD Operations
+
+### Database
+- MongoDB
+- Mongoose
+- Aggregation
+- Database Modeling
+
+### Authentication & Security
+- JWT
+- Authentication
+- Authorization
+- Protected Routes
+- Role-Based Access Control
+
+### Payments & Services
+- Razorpay
+- Cloudinary
+- Nodemailer
+- Google Gemini API
+
+### Tools
+- Git
+- GitHub
+- Postman
+- Axios
+- VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Grocery Shopping Application
+
+A full-stack grocery shopping application built using the MERN stack.
+
+**Key Features:**
+- User registration and login
+- JWT authentication
+- Product management
+- Category and subcategory management
+- Cart management
+- Wishlist
+- Address management
+- Order management
+- Razorpay payment integration
+- Admin product and order management
+
+**Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Razorpay`
+
+🔗 **[View Repository](https://github.com/NikhiDevadiga/Grocery-Shopping-Application)**
+
+---
+
+### 👗 Saree E-commerce Platform
+
+A full-stack e-commerce platform with separate customer and admin applications.
+
+**Key Features:**
+- Product browsing
+- Category management
+- Cart management
+- Wishlist
+- Address management
+- Order management
+- Razorpay payment integration
+- Cloudinary product image management
+- Admin product management
+- Admin order management
+
+**Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Razorpay` `Cloudinary`
+
+🔗 **[View Repository](https://github.com/NikhiDevadiga/Saree-Ecommerce)**
+
+---
+
+### 🤖 AI Code Reviewer
+
+An AI-powered application that reviews submitted source code using the **Google Gemini API**.
+
+**Key Features:**
+- Submit source code for review
+- AI-powered code analysis
+- Identify code issues
+- Generate improvement suggestions
+- Generate improved versions of submitted code
+
+**Tech Stack:**
+
+`React.js` `JavaScript` `Google Gemini API`
+
+🔗 **[View Repository](https://github.com/NikhiDevadiga/AI-CodeReviewer)**
+
+---
+
+### 💼 Job Application Agent
+
+A MERN-based job application assistant that helps organize and streamline the job-search process.
+
+**Key Features:**
+- Collects job opportunities
+- Matches opportunities with candidate information
+- AI-assisted analysis
+- Generates application emails
+- Tracks application status
+
+**Tech Stack:**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `AI`
+
+🔗 **[View Repository](https://github.com/NikhiDevadiga/Job-Application-Agent)**
+
+---
+
+### ⚙️ Backend & Microservices
+
+Backend-focused projects exploring Node.js, Express.js, REST APIs, service-based architecture, and backend development concepts.
+
+🔗 **[Backend Ledger](https://github.com/NikhiDevadiga/Backend-ledger)**  
+🔗 **[Node.js Microservices](https://github.com/NikhiDevadiga/Microservices-NodeJs-Express)**
+
+---
+
+## 🎯 What I Build
+
+- 🔹 REST APIs and backend services
+- 🔹 Authentication and authorization systems
+- 🔹 MERN stack applications
+- 🔹 E-commerce applications
+- 🔹 Payment integrations
+- 🔹 MongoDB-based applications
+- 🔹 React applications
+- 🔹 AI-powered applications
+- 🔹 Admin dashboards and management systems
+
+---
+
+## 📚 Currently Learning
+
+- TypeScript
+- PostgreSQL
+- AWS
+- CI/CD
+- Microservices
+
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhiDevadiga)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhitha-devadiga-0a5b18401)
+
+📧 **Email:** nikhithag0602@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and projects.
