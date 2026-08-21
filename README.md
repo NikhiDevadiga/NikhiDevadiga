@@ -1,10 +1,8 @@
-# Hi, I'm Nikhitha Devadiga 
+# Hi, I'm Nikhitha G 👋
 
 ### MERN Stack Developer | Backend-Focused | Node.js | Express.js | REST APIs | MongoDB
 
-I'm a **MERN Stack Developer** with 3 years of experience building full-stack web applications and backend services.
-
-I enjoy building **REST APIs, authentication systems, database-driven applications, e-commerce platforms, payment integrations, and AI-powered applications**.
+I build modern web applications using the **MERN stack**, with a strong interest in **backend development, REST APIs, authentication, databases, and scalable application architecture**.
 
 ---
 
@@ -60,7 +58,7 @@ I enjoy building **REST APIs, authentication systems, database-driven applicatio
 
 A full-stack grocery shopping application built using the MERN stack.
 
-**Key Features:**
+**Key Features**
 - User registration and login
 - JWT authentication
 - Product management
@@ -72,11 +70,11 @@ A full-stack grocery shopping application built using the MERN stack.
 - Razorpay payment integration
 - Admin product and order management
 
-**Tech Stack:**
+**Tech Stack**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Razorpay`
 
-🔗 **[View Repository](https://github.com/NikhiDevadiga/Grocery-Shopping-Application)**
+🔗 [View Repository](https://github.com/NikhiDevadiga/Grocery-Shopping-Application)
 
 ---
 
@@ -84,7 +82,7 @@ A full-stack grocery shopping application built using the MERN stack.
 
 A full-stack e-commerce platform with separate customer and admin applications.
 
-**Key Features:**
+**Key Features**
 - Product browsing
 - Category management
 - Cart management
@@ -92,62 +90,63 @@ A full-stack e-commerce platform with separate customer and admin applications.
 - Address management
 - Order management
 - Razorpay payment integration
-- Cloudinary product image management
+- Cloudinary image management
 - Admin product management
 - Admin order management
 
-**Tech Stack:**
+**Tech Stack**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `Razorpay` `Cloudinary`
 
-🔗 **[View Repository](https://github.com/NikhiDevadiga/Saree-Ecommerce)**
+🔗 [View Repository](https://github.com/NikhiDevadiga/Saree-Ecommerce)
 
 ---
 
 ### 🤖 AI Code Reviewer
 
-An AI-powered application that reviews submitted source code using the **Google Gemini API**.
+An AI-powered application that reviews source code using the **Google Gemini API**.
 
-**Key Features:**
+**Key Features**
 - Submit source code for review
 - AI-powered code analysis
 - Identify code issues
-- Generate improvement suggestions
-- Generate improved versions of submitted code
+- Improvement suggestions
+- Generate improved code
 
-**Tech Stack:**
+**Tech Stack**
 
 `React.js` `JavaScript` `Google Gemini API`
 
-🔗 **[View Repository](https://github.com/NikhiDevadiga/AI-CodeReviewer)**
+🔗 [View Repository](https://github.com/NikhiDevadiga/AI-CodeReviewer)
 
 ---
 
 ### 💼 Job Application Agent
 
-A MERN-based job application assistant that helps organize and streamline the job-search process.
+A job-search assistant designed to help organize and streamline the job application process.
 
-**Key Features:**
-- Collects job opportunities
-- Matches opportunities with candidate information
+**Key Features**
+- Job opportunity collection
+- Candidate/job matching
 - AI-assisted analysis
-- Generates application emails
-- Tracks application status
+- Application email generation
+- Application status tracking
 
-**Tech Stack:**
+**Tech Stack**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `AI`
 
-🔗 **[View Repository](https://github.com/NikhiDevadiga/Job-Application-Agent)**
+🔗 [View Repository](https://github.com/NikhiDevadiga/Job-Application-Agent)
 
 ---
 
 ### ⚙️ Backend & Microservices
 
-Backend-focused projects exploring Node.js, Express.js, REST APIs, service-based architecture, and backend development concepts.
+Backend-focused projects exploring Node.js, Express.js, REST APIs, and service-based architecture.
 
-🔗 **[Backend Ledger](https://github.com/NikhiDevadiga/Backend-ledger)**  
-🔗 **[Node.js Microservices](https://github.com/NikhiDevadiga/Microservices-NodeJs-Express)**
+🔗 [Backend Ledger](https://github.com/NikhiDevadiga/Backend-ledger)
+
+🔗 [Node.js Microservices](https://github.com/NikhiDevadiga/Microservices-NodeJs-Express)
 
 ---
 
@@ -161,17 +160,13 @@ Backend-focused projects exploring Node.js, Express.js, REST APIs, service-based
 - 🔹 MongoDB-based applications
 - 🔹 React applications
 - 🔹 AI-powered applications
-- 🔹 Admin dashboards and management systems
+- 🔹 Admin dashboards
 
 ---
 
 ## 📚 Currently Learning
 
-- TypeScript
-- PostgreSQL
-- AWS
-- CI/CD
-- Microservices
+`TypeScript` · `PostgreSQL` · `AWS` · `CI/CD` · `Microservices`
 
 ---
 
@@ -181,8 +176,6 @@ Backend-focused projects exploring Node.js, Express.js, REST APIs, service-based
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhitha-devadiga-0a5b18401)
 
-📧 **Email:** nikhithag0602@gmail.com
-
 ---
 
-⭐ Feel free to explore my repositories and projects.
+Feel free to explore my repositories and projects.
