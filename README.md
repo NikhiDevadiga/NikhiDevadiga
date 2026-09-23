@@ -213,7 +213,6 @@ I have hands-on experience containerizing and deploying full-stack applications 
 
 ### Deployment Flow
 
-```text
 Developer
     ↓
 GitHub
@@ -234,10 +233,9 @@ Application Load Balancer
     ↓
 Application
 
-
 ---
 
- CI/CD
+CI/CD
 
 I have hands-on experience with CI/CD automation using GitHub Actions.
 
@@ -276,7 +274,6 @@ Automated deployment workflows
 Environment configuration
 
 Cloud deployment automation
-
 
 
 ---
