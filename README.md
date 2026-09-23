@@ -260,21 +260,21 @@ GitHub Repository
 
 CI/CD Experience
 
-GitHub Actions workflows
+🔹GitHub Actions workflows
 
-Automated application builds
+🔹Automated application builds
 
-Docker image creation
+🔹Docker image creation
 
-Docker image tagging
+🔹Docker image tagging
 
-Container image publishing
+🔹Container image publishing
 
-Automated deployment workflows
+🔹Automated deployment workflows
 
-Environment configuration
+🔹Environment configuration
 
-Cloud deployment automation
+🔹Cloud deployment automation
 
 
 ---
