@@ -212,7 +212,7 @@ I have hands-on experience containerizing and deploying full-stack applications 
 - Worked with Application Load Balancer for application traffic
 
 ### Deployment Flow
-
+```text
 Developer
     ↓
 GitHub
@@ -256,6 +256,7 @@ GitHub Repository
     Deploy to ECS
         ↓
  Running Application
+
 
 CI/CD Experience
 
