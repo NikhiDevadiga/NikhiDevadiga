@@ -240,7 +240,7 @@ CI/CD
 I have hands-on experience with CI/CD automation using GitHub Actions.
 
 CI/CD Workflow
-
+```text
 GitHub Repository
         ↓
      Git Push
@@ -256,7 +256,7 @@ GitHub Repository
     Deploy to ECS
         ↓
  Running Application
-
+```
 
 CI/CD Experience
 
