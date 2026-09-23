@@ -1,8 +1,10 @@
-# Hi, I'm Nikhitha Devadiga 
+# Hi, I'm Nikhitha Devadiga 👋
 
-### MERN Stack Developer | Backend-Focused | Node.js | Express.js | REST APIs | MongoDB
+### MERN Stack Developer | Backend-Focused | Node.js | Express.js | REST APIs | MongoDB | Docker | AWS
 
-I build modern web applications using the **MERN stack**, with a strong interest in **backend development, REST APIs, authentication, databases, and scalable application architecture**.
+I build modern web applications using the **MERN stack**, with a strong interest in **backend development, REST APIs, authentication, databases, cloud deployment, containerization, and scalable application architecture**.
+
+I also have hands-on experience with **Docker, AWS ECR, AWS ECS, CI/CD pipelines, GitHub Actions, and cloud-based application deployment**.
 
 ---
 
@@ -23,19 +25,50 @@ I build modern web applications using the **MERN stack**, with a strong interest
 - REST APIs
 - API Integration
 - CRUD Operations
+- Middleware
+- Error Handling
+- Input Validation
 
 ### Database
 - MongoDB
 - Mongoose
 - Aggregation
 - Database Modeling
+- MongoDB Atlas
 
 ### Authentication & Security
-- JWT
-- Authentication
+- JWT Authentication
 - Authorization
 - Protected Routes
-- Role-Based Access Control
+- Role-Based Access Control (RBAC)
+- Password Hashing
+
+### DevOps & Containerization
+- Docker
+- Docker Desktop
+- Docker Hub
+- Docker Compose
+- Dockerfile
+- Containerized Applications
+- Multi-container Applications
+
+### AWS & Cloud
+- AWS EC2
+- AWS ECR (Elastic Container Registry)
+- AWS ECS (Elastic Container Service)
+- ECS Task Definitions
+- ECS Services
+- Application Load Balancer (ALB)
+- Target Groups
+- Environment Variables
+- Cloud Deployment
+
+### CI/CD
+- GitHub Actions
+- CI/CD Pipelines
+- Automated Build & Deployment
+- Docker Image Build & Push
+- Deployment Automation
 
 ### Payments & Services
 - Razorpay
@@ -49,12 +82,13 @@ I build modern web applications using the **MERN stack**, with a strong interest
 - Postman
 - Axios
 - VS Code
+- npm
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 Grocery Shopping Application
+### Grocery Shopping Application
 
 A full-stack grocery shopping application built using the MERN stack.
 
@@ -78,7 +112,7 @@ A full-stack grocery shopping application built using the MERN stack.
 
 ---
 
-### 👗 Saree E-commerce Platform
+### Saree E-commerce Platform
 
 A full-stack e-commerce platform with separate customer and admin applications.
 
@@ -102,7 +136,7 @@ A full-stack e-commerce platform with separate customer and admin applications.
 
 ---
 
-### 🤖 AI Code Reviewer
+### AI Code Reviewer
 
 An AI-powered application that reviews source code using the **Google Gemini API**.
 
@@ -121,7 +155,7 @@ An AI-powered application that reviews source code using the **Google Gemini API
 
 ---
 
-### 💼 Job Application Agent
+### Job Application Agent
 
 A job-search assistant designed to help organize and streamline the job application process.
 
@@ -140,7 +174,7 @@ A job-search assistant designed to help organize and streamline the job applicat
 
 ---
 
-### ⚙️ Backend & Microservices
+### Backend & Microservices
 
 Backend-focused projects exploring Node.js, Express.js, REST APIs, and service-based architecture.
 
@@ -150,31 +184,135 @@ Backend-focused projects exploring Node.js, Express.js, REST APIs, and service-b
 
 ---
 
-## 🎯 What I Build
+## 🐳 Docker & AWS Deployment
 
-- 🔹 REST APIs and backend services
-- 🔹 Authentication and authorization systems
-- 🔹 MERN stack applications
-- 🔹 E-commerce applications
-- 🔹 Payment integrations
-- 🔹 MongoDB-based applications
-- 🔹 React applications
-- 🔹 AI-powered applications
-- 🔹 Admin dashboards
+I have hands-on experience containerizing and deploying full-stack applications using **Docker and AWS**.
+
+### Docker
+- Created Dockerfiles for frontend and backend applications
+- Built Docker images
+- Used Docker Compose for multi-container applications
+- Pushed images to Docker Hub
+- Worked with containerized MERN applications
+
+### AWS ECR
+- Created Amazon ECR repositories
+- Built Docker images locally
+- Tagged Docker images for ECR
+- Pushed Docker images to Amazon ECR
+- Used ECR as a container image registry
+
+### AWS ECS
+- Created ECS clusters
+- Created ECS task definitions
+- Configured container settings and environment variables
+- Deployed Docker containers using ECS
+- Configured ECS services
+- Connected ECS services with target groups
+- Worked with Application Load Balancer for application traffic
+
+### Deployment Flow
+
+```text
+Developer
+    ↓
+GitHub
+    ↓
+Docker Build
+    ↓
+Docker Image
+    ↓
+Amazon ECR
+    ↓
+Amazon ECS
+    ↓
+ECS Service
+    ↓
+Target Group
+    ↓
+Application Load Balancer
+    ↓
+Application
+
 
 ---
 
-## 📚 Currently Learning
+ CI/CD
 
-`TypeScript` · `PostgreSQL` · `AWS` · `CI/CD` · `Microservices`
+I have hands-on experience with CI/CD automation using GitHub Actions.
+
+CI/CD Workflow
+
+GitHub Repository
+        ↓
+     Git Push
+        ↓
+  GitHub Actions
+        ↓
+    Build & Test
+        ↓
+   Docker Image
+        ↓
+     Push to ECR
+        ↓
+    Deploy to ECS
+        ↓
+ Running Application
+
+CI/CD Experience
+
+GitHub Actions workflows
+
+Automated application builds
+
+Docker image creation
+
+Docker image tagging
+
+Container image publishing
+
+Automated deployment workflows
+
+Environment configuration
+
+Cloud deployment automation
+
+
 
 ---
 
-## 📫 Connect With Me
+ What I Build
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhiDevadiga)
+🔹 REST APIs and backend services
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhitha-devadiga-0a5b18401)
+🔹 Authentication and authorization systems
+
+🔹 MERN stack applications
+
+🔹 E-commerce applications
+
+🔹 Payment integrations
+
+🔹 MongoDB-based applications
+
+🔹 React applications
+
+🔹 AI-powered applications
+
+🔹 Admin dashboards
+
+🔹 Dockerized applications
+
+🔹 Cloud-deployed applications
+
+🔹 CI/CD pipelines
+
+---
+
+Currently Learning
+
+TypeScript · PostgreSQL · Advanced AWS · Kubernetes · Advanced Microservices · DevOps
+
 
 ---
 
