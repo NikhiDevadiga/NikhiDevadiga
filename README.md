@@ -232,7 +232,7 @@ Target Group
 Application Load Balancer
     ↓
 Application
-
+```
 ---
 
 CI/CD
